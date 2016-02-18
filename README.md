@@ -3,3 +3,5 @@
 This is a test repository for students to learn how to use git and GitHub. 
 
 I made a change.
+
+I made a second change.
